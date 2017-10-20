@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+    //koversi type data
     var n1:Int= 10
     var n2:Int?
     var n25tr:String = "12"
