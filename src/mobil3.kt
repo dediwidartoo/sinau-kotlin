@@ -16,5 +16,6 @@ fun main(args: Array<String>) {
     var avanza = Mobil3()
     println("Mesin avanza : "+avanza.mesin)
 
+    println(Mobil3.pintu)
     Mobil3.bukapintu()
 }
